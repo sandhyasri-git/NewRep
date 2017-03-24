@@ -1,0 +1,8 @@
+com\niit\frontend\controller\HomeController.class
+Handler\registrationHandler.class
+com\niit\frontend\controller\ProductController.class
+com\niit\frontend\controller\AdminController.class
+com\niit\frontend\controller\CategoryController.class
+com\niit\frontend\controller\SupplierController.class
+com\niit\frontend\controller\UserDetails.class
+com\niit\frontend\controller\CartController.class
